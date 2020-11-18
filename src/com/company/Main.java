@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Second commit");
         System.out.println("Next Commit");
         System.out.println("Afanasiy");
+        System.out.println("master");
     }
 }
